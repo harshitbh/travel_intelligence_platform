@@ -1,0 +1,24 @@
+# Core LLM & RAG
+langchain>=0.2.0,<0.3.0
+langchain-chroma>=0.1.0
+langchain-huggingface>=0.2.0
+langchain-text-splitters>=0.2.0
+
+# Vector store
+chromadb==0.4.24
+
+# Web scraping and content conversion
+playwright==1.42.0
+markdownify==0.11.6
+beautifulsoup4>=4.12.0
+
+# MCP and HTTP tools
+mcp==1.0.0
+requests==2.31.0
+
+# Utilities
+python-dotenv==1.0.1
+pypdf>=4.0.0
+
+# LLM client for Hugging Face Router
+openai>=1.0.0

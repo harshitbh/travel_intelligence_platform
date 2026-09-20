@@ -1,0 +1,13 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+models/chroma_db/
+models/
+.DS_Store
+data/
+AI_Travel_Planning_Assistant_Assignment.pdf
