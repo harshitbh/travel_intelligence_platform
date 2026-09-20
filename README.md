@@ -1,5 +1,7 @@
 # Singapore Travel Planning Assistant
 
+GitHub Repository: https://github.com/harshitbh/travel_intelligence_platform.git
+
 This project is a local, travel-focused Retrieval-Augmented Generation (RAG) system for Singapore. It combines a locally stored travel knowledge base with live external tools for current information such as weather and currency conversion.
 
 The system is designed around a simple but important idea: travel planning requires both destination facts and time-sensitive current information. The assistant retrieves relevant destination knowledge from local documents and uses live tool responses when the user asks about current weather, money conversion, or travel conditions.
