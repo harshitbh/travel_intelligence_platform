@@ -156,6 +156,31 @@ This opens an interactive prompt loop where you can ask travel questions natural
 - I have a budget of 50000 INR. Convert it to SGD and suggest a 3-day itinerary.
 - Which attractions in Singapore are suitable for young children?
 
+## Sample results
+
+These are short, curated examples based on the live project behavior.
+
+### 1) Attraction query
+
+Question: What are the best attractions in Singapore?
+
+Example answer:
+> The best attractions in Singapore include Marina Bay, Gardens by the Bay, Sentosa Island, the Singapore Flyer, Kampong Gelam, Little India, Chinatown, and Orchard Road. These locations offer a mix of iconic waterfront views, heritage sites, cultural experiences, and natural beauty.
+
+### 2) Currency conversion
+
+Question: Convert 60000 INR to SGD.
+
+Example answer:
+> 60000 INR = 799.32 SGD (rate: 0.0133).
+
+### 3) Combined weather + budget + itinerary
+
+Question: I have a budget of 50000 INR. Convert it to SGD and suggest a 3-day itinerary considering the weather forecast.
+
+Example answer:
+> 50,000 INR = 666.10 SGD. For your 3-day trip in Singapore: Day 1 focuses on Sentosa Island and indoor attractions, Day 2 explores Gardens by the Bay and Marina Bay, and Day 3 includes a relaxed day with family-friendly activities. Carry an umbrella as rain is expected each day.
+
 ## Prompt and retrieval strategy
 
 The app uses a lightweight prompt strategy designed for assignment clarity:
